@@ -1,0 +1,10 @@
+# Resume Placeholder
+
+This is a placeholder file. 
+
+Please replace this file with your actual resume PDF at:
+- `public/resume.pdf`
+
+The file should be named `resume.pdf` and placed in the `public` directory.
+
+Once placed, the "Download Resume" and "View Resume" buttons will work correctly.
